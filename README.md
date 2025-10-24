@@ -2,6 +2,8 @@
 
 A modern, professional sports betting odds comparison platform that helps users find arbitrage opportunities and positive EV bets across 150+ sportsbooks.
 
+**Live App:** Coming soon!
+
 ![BetEdge](https://img.shields.io/badge/Next.js-15-black) ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue) ![Supabase](https://img.shields.io/badge/Supabase-Enabled-green) ![Vercel](https://img.shields.io/badge/Vercel-Deployed-black)
 
 ## Features
